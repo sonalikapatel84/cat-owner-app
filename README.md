@@ -1,3 +1,7 @@
+The output is 
+![image](https://github.com/user-attachments/assets/d788a94a-3ee3-45fb-9bb5-3e07abd299ba)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
