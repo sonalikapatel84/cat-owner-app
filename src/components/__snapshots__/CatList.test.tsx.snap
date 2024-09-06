@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatList Component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      Male
+    </h2>
+    <ul>
+      <li>
+        Garfield
+      </li>
+      <li>
+        Tom
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
